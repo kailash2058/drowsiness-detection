@@ -12,8 +12,8 @@ Follow the steps below to set up the project on your local machine:
 ### 1. Clone the Repository
 First, clone the repository to your local machine using the following command:
 ```
-git clone git@github.com:kailash2058/chat_bot.git
-cd chat_bot
+git clone git@github.com:kailash2058/drowsiness-detection.git
+
 ```
 2. Create a virtual environment and activate it:
 ```
@@ -24,5 +24,5 @@ venv\Scripts\activate (for windows)
 3.Install the required libraries:
 
 ```
-pip install requirnments.txt 
+pip install requirements.txt 
 ```
